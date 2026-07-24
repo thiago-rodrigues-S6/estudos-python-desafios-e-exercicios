@@ -17,4 +17,4 @@ Este módulo reúne scripts focados na transformação, análise, busca e format
 ### 3. `analisador_frequencia_letras.py`
 * **Objetivo:** Mapear a presença e a posição de caracteres específicos dentro de uma frase.
 * **Conceitos Práticos:** Medição de comprimento total com `len()`, contagem de ocorrências com `count()`, e localização da primeira (`find()`) e última (`rfind() ou percorrer com a ultima posição do find`) ocorrência da letra "A".
-*
+
