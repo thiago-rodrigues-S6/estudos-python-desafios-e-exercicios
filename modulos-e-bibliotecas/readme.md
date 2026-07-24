@@ -21,4 +21,4 @@ Este módulo reúne exercícios focados na importação e manipulação de bibli
 ### 4. `simulador_desligamento_sistema.py`
 * **Objetivo:** Simular o desligamento seguro de um sistema com efeitos visuais temporizados no terminal.
 * **Conceitos Práticos:** Uso do módulo `time` (especificamente `time.sleep()`) para criar intervalos de atraso controlados entre as mensagens de aviso e a despedida final.
-*
+
